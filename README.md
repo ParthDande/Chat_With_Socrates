@@ -9,3 +9,4 @@ The Project is very basic one . Here I used the Open Ai Api to tell the system t
 they user will give request and the output is displayed on the stremlit app.
 Role of the system is to be Socrates
 Role of the user is to ask prompt.
+Also use our own api key which has credits available 
